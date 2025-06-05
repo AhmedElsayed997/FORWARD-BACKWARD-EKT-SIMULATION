@@ -1,2 +1,2 @@
-# FORWARD-BACKWARD-EKT-SIMULATION
-## Simple FW-BW Circuit Using EKT Simulation
+# FORWARD-BACKWARD-EKTS-SIMULATION
+## Simple FW-BW Circuit Using EKTS Simulation
